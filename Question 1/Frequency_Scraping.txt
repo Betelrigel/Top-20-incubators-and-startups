@@ -1,0 +1,6 @@
+The frequency of scraping is calibrated to 57 monthly intervals:
+
+Start: January 2022 (2022-01)
+End: September 2026 (2026-09)
+Total Months: 12 (2022) + 12 (2023) + 12 (2024) + 12 (2025) + 9 (2026) = 57 months per target page.
+Earliest Monthly Capture: The CDX query parameter collapse=timestamp:6 ensures that if multiple snapshots exist in a month, only the chronologically earliest snapshot is returned, satisfying the exact research requirement.
