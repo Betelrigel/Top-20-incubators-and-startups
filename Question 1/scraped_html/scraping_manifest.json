@@ -1,0 +1,202 @@
+[
+  {
+    "incubator": "axilor_ventures",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\axilor_ventures\\current\\about_us_current.html",
+    "file_size_bytes": 94808,
+    "sha256": "a90691705681b984bbec1b20c86fc18152c3589a7cea06c9ec29a97722eaabc1"
+  },
+  {
+    "incubator": "axilor_ventures",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\axilor_ventures\\current\\homepage_current.html",
+    "file_size_bytes": 134929,
+    "sha256": "f4434ce102bdf31aaad091eb11e56fb688d2f97ec9b0eb51c328f1b4a5a3c1b0"
+  },
+  {
+    "incubator": "bits_pieds",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\bits_pieds\\current\\about_us_current.html",
+    "file_size_bytes": 101386,
+    "sha256": "db4f8ccbe6822b4db51fa1bd3fe2320cc17e44882260b50c5b632e421749a94f"
+  },
+  {
+    "incubator": "bits_pieds",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\bits_pieds\\current\\homepage_current.html",
+    "file_size_bytes": 227920,
+    "sha256": "d28705a2ed6d74f06dca14a26faefc5ddefc24020771a35f32081df5d7d021f2"
+  },
+  {
+    "incubator": "ccamp",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\ccamp\\current\\homepage_current.html",
+    "file_size_bytes": 30607,
+    "sha256": "2b4befdb2a6ae6b97c79a6c8bcdf2b42cd67a1b8f84a7780e6f2d9dba9ee9ea9"
+  },
+  {
+    "incubator": "fitt_iit_delhi",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\fitt_iit_delhi\\current\\homepage_current.html",
+    "file_size_bytes": 92180,
+    "sha256": "ee98dbe9b7125ea61b2fc6bc0cab2f3509298ec2813a615a85453308447758c9"
+  },
+  {
+    "incubator": "iima_ventures",
+    "scope": "archived",
+    "filename": "homepage_2025-01_20250108175540.html",
+    "file_path": "scraped_html\\iima_ventures\\archived\\homepage\\homepage_2025-01_20250108175540.html",
+    "file_size_bytes": 117652,
+    "sha256": "cbb05c7220e9c25d4ff6b4175ae66dd8d38b5d09c9ef7de08345249c35d25543"
+  },
+  {
+    "incubator": "iima_ventures",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\iima_ventures\\current\\about_us_current.html",
+    "file_size_bytes": 213858,
+    "sha256": "53d86df8b551493cb9e091a821be214fa7c176060a90d5208f772a9195e8fdbc"
+  },
+  {
+    "incubator": "iima_ventures",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\iima_ventures\\current\\homepage_current.html",
+    "file_size_bytes": 157541,
+    "sha256": "0e3198d7093d036477809a3122e7398a53973f23d34f822af78919622e6988bb"
+  },
+  {
+    "incubator": "iitm_incubation_cell",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\iitm_incubation_cell\\current\\about_us_current.html",
+    "file_size_bytes": 1360,
+    "sha256": "4df2c4e94538e8155f17a1042d3a04f450765efad4a595775deefd8d630f23ab"
+  },
+  {
+    "incubator": "iitm_incubation_cell",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\iitm_incubation_cell\\current\\homepage_current.html",
+    "file_size_bytes": 1359,
+    "sha256": "b5a65df134c236c55e410887e392a494be655f66ad389ffdf8269fa5096f9460"
+  },
+  {
+    "incubator": "ikp_knowledge_park",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\ikp_knowledge_park\\current\\about_us_current.html",
+    "file_size_bytes": 319913,
+    "sha256": "ba65e9ad65091b8e4799792b6363e45ad97d784994ed5ae649fed7a77fb7a601"
+  },
+  {
+    "incubator": "ikp_knowledge_park",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\ikp_knowledge_park\\current\\homepage_current.html",
+    "file_size_bytes": 340967,
+    "sha256": "d0d4f64985df29bdd7150360e3f7b4069e2739317adccda754c94e07ca7ae21e"
+  },
+  {
+    "incubator": "kerala_startup_mission",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\kerala_startup_mission\\current\\homepage_current.html",
+    "file_size_bytes": 2141663,
+    "sha256": "94df8e84e9da3bb93b98b983971f04a95eeec7fc6e88b27ad9355e8e3bae4b9d"
+  },
+  {
+    "incubator": "kiit_tbi",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\kiit_tbi\\current\\about_us_current.html",
+    "file_size_bytes": 197247,
+    "sha256": "70b0ec42321a6249b001ad5222b6bffc1183edf8847d515b922830a655409892"
+  },
+  {
+    "incubator": "kiit_tbi",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\kiit_tbi\\current\\homepage_current.html",
+    "file_size_bytes": 787873,
+    "sha256": "2be69093434723a51499fe948e6b4bdc8a5048e292319db35fa24b4e1eec93c5"
+  },
+  {
+    "incubator": "nsrcel_iimb",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\nsrcel_iimb\\current\\about_us_current.html",
+    "file_size_bytes": 995478,
+    "sha256": "aaf2a17bbf4980212ed20aa779950ac20432867333cda02c9c1c702763ba7764"
+  },
+  {
+    "incubator": "nsrcel_iimb",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\nsrcel_iimb\\current\\homepage_current.html",
+    "file_size_bytes": 1139243,
+    "sha256": "94b88c8a4ce989f6221e19e092601795dad38b28f5dd15fb46f4049b09c35e8b"
+  },
+  {
+    "incubator": "siic_iit_kanpur",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\siic_iit_kanpur\\current\\about_us_current.html",
+    "file_size_bytes": 3225,
+    "sha256": "d5223a71b1e0d8f8993653de9a599d759bb2ca9708252ac046a591b47e7f70f4"
+  },
+  {
+    "incubator": "siic_iit_kanpur",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\siic_iit_kanpur\\current\\homepage_current.html",
+    "file_size_bytes": 3225,
+    "sha256": "d5223a71b1e0d8f8993653de9a599d759bb2ca9708252ac046a591b47e7f70f4"
+  },
+  {
+    "incubator": "t_hub",
+    "scope": "archived",
+    "filename": "homepage_2022-01_20211222091258.html",
+    "file_path": "scraped_html\\t_hub\\archived\\homepage\\homepage_2022-01_20211222091258.html",
+    "file_size_bytes": 424213,
+    "sha256": "4291aa9287e4a860be6a357e472056ef1a60620cdcfe7d387cbbbf14fa2fc321"
+  },
+  {
+    "incubator": "t_hub",
+    "scope": "current",
+    "filename": "about_us_current.html",
+    "file_path": "scraped_html\\t_hub\\current\\about_us_current.html",
+    "file_size_bytes": 66576,
+    "sha256": "01bd9cdf5cdde17bd96dfa3a84920581445136c77146ab7b0bd4b29be4c7e83c"
+  },
+  {
+    "incubator": "t_hub",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\t_hub\\current\\homepage_current.html",
+    "file_size_bytes": 128305,
+    "sha256": "fcb2723fc824d0bfd423ba3863bcceb9f52ab630ef3333cf3033126647f954ee"
+  },
+  {
+    "incubator": "venture_center",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\venture_center\\current\\homepage_current.html",
+    "file_size_bytes": 102801,
+    "sha256": "cb1c240cadfae9b2be9a193a1331eded813169e88fe2fbfebbc43d9a97876cba"
+  },
+  {
+    "incubator": "villgro",
+    "scope": "current",
+    "filename": "homepage_current.html",
+    "file_path": "scraped_html\\villgro\\current\\homepage_current.html",
+    "file_size_bytes": 842929,
+    "sha256": "d7e21afe35b37b1c6700fa2d9ab7ac03963fc48a052eb95da39e498384ff8f46"
+  }
+]
